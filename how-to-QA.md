@@ -6,13 +6,6 @@
         <ac:layout-cell>
             <h3>Current QA activities in this column</h3>
             <p><a class="external-link" style="text-decoration: underline;" href="http://nightly2.sakaiproject.org/" rel="nofollow">QA Servers</a></p>
-            <p>Meeting Logistics:</p>
-            <ul>
-                <li>BigBlueButton hosted by BlindsideNetworks</li>
-                <li><a class="external-link" style="text-decoration: underline;" href="http://apereo.blindsidenetworks.net/apereo/" rel="nofollow">http://apereo.blindsidenetworks.net/apereo/</a></li>
-                <li>Room &quot;Sakai QA&quot;</li>
-                <li>password &quot;apereo&quot; or &quot;apereom&quot; for Meeting Moderators</li>
-            </ul>
         </ac:layout-cell>
     </ac:layout-section>
     <ac:layout-section ac:type="single">
