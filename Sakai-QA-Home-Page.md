@@ -72,7 +72,7 @@ We include in JIRA a status that indicates the state of the ticket with respect 
 
 As a QA tester, once you understand what the fields mean, it is okay to set the status yourself to Verified, on both the overall JIRA and for the branch.
 
-![](Aspose.Words.b7ad6376-984b-4e1a-8056-4105c0f307b6.003.png)
+![](images/QA/Aspose.Words.b7ad6376-984b-4e1a-8056-4105c0f307b6.003.png)
 #### **A bug that is supposed to be fixed, isn't**
 If you are verifying a fix and it fails then reopen the issue by clicking the Reopen button. This indicates to the developer that there is more work to be done. If you are not sure if the issue should be reopened then simply leave a comment. Make sure to include the exact steps of how it failed, what server you were on, the revision number if testing was done on trunk, browser/os, etc.
 #### **Test New Features**
