@@ -1,5 +1,5 @@
 # **Welcome to the Sakai Wiki**
-## ![Sakai Logo](Aspose.Words.8e269e9b-941a-4abc-b72a-09898dfbfc29.001.jpeg "Sakai Logo")
+## ![Sakai Logo](https://blindsidenetworks.com/wp-content/uploads/2021/05/Sakai_Logo-300x266-1.png "Sakai Logo")
 ## **Sakai is an open source digital learning environment. For general information about Sakai visit our website at [https://www.sakailms.org/**](https://www.sakailms.org/)**
 -----
 # ![User Icon](Aspose.Words.8e269e9b-941a-4abc-b72a-09898dfbfc29.002.png "Using Sakai")**Using Sakai**
