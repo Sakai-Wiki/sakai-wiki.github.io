@@ -5,7 +5,7 @@ Quality Assurance
 
 Team
 
-` `Onboarding Manual
+Onboarding Manual
 
 
 
@@ -89,27 +89,11 @@ The first meeting we regroup from the week before and plan out the work for the 
 
 QA Planning
 
-Thursdays at 5:30 PM EST
+######For more info on meetings, please contact(email) Mark Golbeck.
 
-<https://apereo.blindsidenetworks.net/apereo/>. 
 
-Sakai QA Room
 
-Password: “apereo”
 
-Those who want to share their screens login with the password “apereom”
-
-The second meeting we have no scoped agenda for, but use if questions come up during testing. If you learn from asking questions or listening to others questions answered, you’ll want to attend this meeting:
-
-QA TestFest
-
-Friday at 10 AM EST
-
-<https://apereo.blindsidenetworks.net/apereo/>. 
-
-Sakai QA RoomPassword: “apereo”
-
-Those who want to share their screens login with the password “apereom”
 
 # **General QA Testing Overview**
 
