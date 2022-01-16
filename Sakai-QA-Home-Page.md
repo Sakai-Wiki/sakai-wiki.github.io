@@ -146,4 +146,4 @@ Variations in data that should be used throughout the application in every locat
 
 **Onboarding New Members:**
 
-Here is the link to the onboarding manual for Sakais QA Team: <https://docs.google.com/document/d/1GXM4pSwyCvyUrThTFovK_XehiFWmdYYH5XxO_ni39js/edit?usp=sharing>
+Click here to see the [Sakai Onboarding Guide](How-To-QA.md)
