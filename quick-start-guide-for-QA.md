@@ -2,7 +2,7 @@
 
 
 ##### Get started with Sakai QA 
-As of `18-0-2022`, we are testing Sakai 22 using the regression scripts found in the Sakai 22 Tool sign-up spreadsheet. The link to the spreadsheet can be found here: 
+As of `18-01-2022`, we are testing Sakai 22 using the regression scripts found in the Sakai 22 Tool sign-up spreadsheet. The link to the spreadsheet can be found here: 
 [Sakai-22 Regression Script Testing](https://bit.ly/Sakai_22_Regression_Script_Testing)
 
 
