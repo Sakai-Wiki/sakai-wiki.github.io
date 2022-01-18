@@ -17,9 +17,9 @@ Unless otherwise stated, all testing is taking place on the Sakai 22 server (ref
 
 
 #### How to run the regression tests:
-- Make sure to take a look at Sakai Portal's [How to Create a Course Sites](https://sakai-wiki.github.io/how-to-create-a-course-sites.md)
+- Make sure to take a look at Sakai Portal's [How to Create a Course Sites](how-to-create-a-course-sites.md)
 - Pick the tool you want to test. 
- >  Before you start testing, make sure to check the regression script for that tool. Go through each tabs to understand what you need to do.
+ >  Before you start testing, check the regression script for that tool. Go through each tabs to understand what you need to do.
 - Now put your name and other information in the spreadsheet. Take a deep breath and start testing :)
 
 
@@ -29,7 +29,7 @@ Unless otherwise stated, all testing is taking place on the Sakai 22 server (ref
 
 
 ##### If test fails, you can create a jira
- - [How to create a Jira](https://sakai-wiki.github.io/how-to-create-a-jira.md)
+ - [How to create a Jira](how-to-create-a-jira.md)
 
 
 ##### Please check out the [Sakai QA Wiki](https://sakai-wiki.github.io/Sakai-QA-Home-Page) for more information on Sakai QA Onboarding process.
