@@ -6,7 +6,7 @@ As of `18-01-2022`, we are testing Sakai 22 using the regression scripts found i
 [Sakai-22 Regression Script Testing](https://bit.ly/Sakai_22_Regression_Script_Testing)
 
 
-In the spreadsheet, you find everything you need to start testing.
+In the spreadsheet, you will find everything you need to start testing.
 
 
 > [!NOTE]
